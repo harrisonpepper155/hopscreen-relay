@@ -1,0 +1,15 @@
+{
+  "name": "hopscreen-relay",
+  "version": "1.0.0",
+  "description": "Lets HopScreen apps anywhere in the world find each other",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
